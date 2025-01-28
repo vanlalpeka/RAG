@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # This is a repository of notebooks to explore Retrieval Augmented Generation (RAG) concepts with varying levels of complexities.
 # It is a work in progress and will be updated regularly.
 
@@ -46,7 +45,3 @@ The trickiest part is usually optimizing retrieval quality while maintaining spe
 - Langsmith: Offers tools for logging, monitoring, and evaluation. Overkill for simple project. No Windows version of Langsmith Studio.
 
 <!-- [Knowledge Augmented Generation](https://arxiv.org/abs/2409.13731) -->
-=======
-## This is a repository of notebooks to explore RAG concepts with varying levels of complexities.
-## It is a work in progress and will be updated regularly.
->>>>>>> 3a50aaa732b48c1be4f455dfc6cf68dc4900ee3e
